@@ -1,0 +1,62 @@
+body {
+    background-color:cornflowerblue;
+}
+span {
+    color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: maroon;
+}
+h1{
+    padding: 50px;
+}
+.cadre{
+    padding: 10px;
+    margin-left:55px;
+
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.left {
+    display: inline-block;
+    width: 45%;
+    padding: 10px;
+    margin: 0;
+    box-sizing: border-box;
+
+    height: 30%;
+    border: 2px solid white; 
+    background-color: yellow;
+
+}
+#tra{
+ display: inline-block;
+}
+#msg{
+   width: 100%
+}
+#slidename{
+    height: 40px;
+}
+#name{
+    height: 40px ;
+}
+.right {
+    display: inline-block;
+    width: 45%;
+    padding: 10px;
+    margin: 0;
+
+    box-sizing: border-box;
+    height: 30%;
+    border: 2px solid white; 
+    background-color: yellow;
+    
+}
+img{
+   width: 300px;
+   height: 300px; 
+}
